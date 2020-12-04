@@ -1,0 +1,119 @@
+The winning percentage of Atlanta Hawks is: 0.299
+The pythagorean expectation is: 0.2772377974332568
+The pythagorean expectation predicted 0.022 below the actual win%!
+
+The winning percentage of Boston Celtics is: 0.667
+The pythagorean expectation is: 0.6886839164634799
+The pythagorean expectation predicted 0.022 above the actual win%!
+
+The winning percentage of Brooklyn Nets is: 0.486
+The pythagorean expectation is: 0.48233643497699763
+The pythagorean expectation predicted 0.004 below the actual win%!
+
+The winning percentage of Charlotte Hornets is: 0.354
+The pythagorean expectation is: 0.2922536840903632
+The pythagorean expectation predicted 0.062 below the actual win%!
+
+The winning percentage of Chicago Bulls is: 0.338
+The pythagorean expectation is: 0.4025343116376924
+The pythagorean expectation predicted 0.065 above the actual win%!
+
+The winning percentage of Cleveland Cavaliers is: 0.292
+The pythagorean expectation is: 0.270736861414235
+The pythagorean expectation predicted 0.021 below the actual win%!
+
+The winning percentage of Dallas Mavericks is: 0.573
+The pythagorean expectation is: 0.6458457006023346
+The pythagorean expectation predicted 0.073 above the actual win%!
+
+The winning percentage of Denver Nuggets is: 0.63
+The pythagorean expectation is: 0.5661626424105157
+The pythagorean expectation predicted 0.064 below the actual win%!
+
+The winning percentage of Detroit Pistons is: 0.303
+The pythagorean expectation is: 0.3883314643885483
+The pythagorean expectation predicted 0.085 above the actual win%!
+
+The winning percentage of Golden State Warriors is: 0.231
+The pythagorean expectation is: 0.25071449709830607
+The pythagorean expectation predicted 0.020 above the actual win%!
+
+The winning percentage of Houston Rockets is: 0.611
+The pythagorean expectation is: 0.5875311781857695
+The pythagorean expectation predicted 0.023 below the actual win%!
+
+The winning percentage of Indiana Pacers is: 0.616
+The pythagorean expectation is: 0.562481415503061
+The pythagorean expectation predicted 0.054 below the actual win%!
+
+The winning percentage of LA Clippers is: 0.681
+The pythagorean expectation is: 0.6883961582406868
+The pythagorean expectation predicted 0.007 above the actual win%!
+
+The winning percentage of Los Angeles Lakers is: 0.732
+The pythagorean expectation is: 0.6744951770014914
+The pythagorean expectation predicted 0.058 below the actual win%!
+
+The winning percentage of Memphis Grizzlies is: 0.466
+The pythagorean expectation is: 0.467212471495654
+The pythagorean expectation predicted 0.001 above the actual win%!
+
+The winning percentage of Miami Heat is: 0.603
+The pythagorean expectation is: 0.5915898512740188
+The pythagorean expectation predicted 0.011 below the actual win%!
+
+The winning percentage of Milwaukee Bucks is: 0.767
+The pythagorean expectation is: 0.7746958490520633
+The pythagorean expectation predicted 0.008 above the actual win%!
+
+The winning percentage of Minnesota Timberwolves is: 0.297
+The pythagorean expectation is: 0.37331992266229586
+The pythagorean expectation predicted 0.076 above the actual win%!
+
+The winning percentage of New Orleans Pelicans is: 0.417
+The pythagorean expectation is: 0.46151758952064525
+The pythagorean expectation predicted 0.045 above the actual win%!
+
+The winning percentage of New York Knicks is: 0.318
+The pythagorean expectation is: 0.3049774539142425
+The pythagorean expectation predicted 0.013 below the actual win%!
+
+The winning percentage of Oklahoma City Thunder is: 0.611
+The pythagorean expectation is: 0.5627874727285143
+The pythagorean expectation predicted 0.048 below the actual win%!
+
+The winning percentage of Orlando Magic is: 0.452
+The pythagorean expectation is: 0.4673397964270058
+The pythagorean expectation predicted 0.015 above the actual win%!
+
+The winning percentage of Philadelphia 76ers is: 0.589
+The pythagorean expectation is: 0.5750945863097415
+The pythagorean expectation predicted 0.014 below the actual win%!
+
+The winning percentage of Phoenix Suns is: 0.466
+The pythagorean expectation is: 0.5067145392732191
+The pythagorean expectation predicted 0.041 above the actual win%!
+
+The winning percentage of Portland Trail Blazers is: 0.473
+The pythagorean expectation is: 0.46548507934160843
+The pythagorean expectation predicted 0.008 below the actual win%!
+
+The winning percentage of Sacramento Kings is: 0.431
+The pythagorean expectation is: 0.4364487142663241
+The pythagorean expectation predicted 0.005 above the actual win%!
+
+The winning percentage of San Antonio Spurs is: 0.451
+The pythagorean expectation is: 0.46629088489020365
+The pythagorean expectation predicted 0.015 above the actual win%!
+
+The winning percentage of Toronto Raptors is: 0.736
+The pythagorean expectation is: 0.6881416171113421
+The pythagorean expectation predicted 0.048 below the actual win%!
+
+The winning percentage of Utah Jazz is: 0.611
+The pythagorean expectation is: 0.5774902575443015
+The pythagorean expectation predicted 0.034 below the actual win%!
+
+The winning percentage of Washington Wizards is: 0.347
+The pythagorean expectation is: 0.36445567419833985
+The pythagorean expectation predicted 0.017 above the actual win%!
