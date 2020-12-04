@@ -1,0 +1,66 @@
+date_game,opp_name,game_result,pts,opp_pts,wins,losses,game_streak
+"Wed, Oct 23, 2019",Chicago Bulls,W,126,125,1,0,W 1
+"Fri, Oct 25, 2019",Minnesota Timberwolves,L,99,121,1,1,L 1
+"Sun, Oct 27, 2019",Los Angeles Lakers,L,101,120,1,2,L 2
+"Mon, Oct 28, 2019",Los Angeles Clippers,L,96,111,1,3,L 3
+"Wed, Oct 30, 2019",Sacramento Kings,W,118,111,2,3,W 1
+"Sat, Nov 2, 2019",Golden State Warriors,W,93,87,3,3,W 2
+"Tue, Nov 5, 2019",Indiana Pacers,W,122,120,4,3,W 3
+"Thu, Nov 7, 2019",Boston Celtics,L,87,108,4,4,L 1
+"Sat, Nov 9, 2019",New Orleans Pelicans,L,110,115,4,5,L 2
+"Sun, Nov 10, 2019",Philadelphia 76ers,L,106,114,4,6,L 3
+"Wed, Nov 13, 2019",Memphis Grizzlies,L,117,119,4,7,L 4
+"Fri, Nov 15, 2019",Detroit Pistons,W,109,106,5,7,W 1
+"Sat, Nov 16, 2019",New York Knicks,W,103,102,6,7,W 2
+"Mon, Nov 18, 2019",Toronto Raptors,L,96,132,6,8,L 1
+"Wed, Nov 20, 2019",Brooklyn Nets,L,91,101,6,9,L 2
+"Fri, Nov 22, 2019",Washington Wizards,L,118,125,6,10,L 3
+"Sat, Nov 23, 2019",Chicago Bulls,L,115,116,6,11,L 4
+"Mon, Nov 25, 2019",Miami Heat,L,100,117,6,12,L 5
+"Wed, Nov 27, 2019",Detroit Pistons,W,102,101,7,12,W 1
+"Fri, Nov 29, 2019",Detroit Pistons,W,110,107,8,12,W 2
+"Sat, Nov 30, 2019",Milwaukee Bucks,L,96,137,8,13,L 1
+"Mon, Dec 2, 2019",Phoenix Suns,L,104,109,8,14,L 2
+"Wed, Dec 4, 2019",Golden State Warriors,W,106,91,9,14,W 1
+"Fri, Dec 6, 2019",Brooklyn Nets,L,104,111,9,15,L 1
+"Sun, Dec 8, 2019",Atlanta Hawks,L,107,122,9,16,L 2
+"Tue, Dec 10, 2019",Washington Wizards,W,114,107,10,16,W 1
+"Wed, Dec 11, 2019",Brooklyn Nets,W,113,108,11,16,W 2
+"Fri, Dec 13, 2019",Chicago Bulls,W,83,73,12,16,W 3
+"Sun, Dec 15, 2019",Indiana Pacers,L,85,107,12,17,L 1
+"Tue, Dec 17, 2019",Sacramento Kings,W,110,102,13,17,W 1
+"Wed, Dec 18, 2019",Cleveland Cavaliers,L,98,100,13,18,L 1
+"Sat, Dec 21, 2019",Utah Jazz,L,107,114,13,19,L 2
+"Sun, Dec 22, 2019",Boston Celtics,L,93,119,13,20,L 3
+"Fri, Dec 27, 2019",Oklahoma City Thunder,L,102,104,13,21,L 4
+"Sun, Dec 29, 2019",Memphis Grizzlies,L,104,117,13,22,L 5
+"Tue, Dec 31, 2019",Boston Celtics,L,92,109,13,23,L 6
+"Thu, Jan 2, 2020",Cleveland Cavaliers,W,109,106,14,23,W 1
+"Sat, Jan 4, 2020",Dallas Mavericks,W,123,120,15,23,W 2
+"Mon, Jan 6, 2020",Indiana Pacers,L,104,115,15,24,L 1
+"Wed, Jan 8, 2020",Toronto Raptors,L,110,112,15,25,L 2
+"Fri, Jan 10, 2020",Utah Jazz,L,92,109,15,26,L 3
+"Sun, Jan 12, 2020",Phoenix Suns,L,92,100,15,27,L 4
+"Mon, Jan 13, 2020",Portland Trail Blazers,L,112,115,15,28,L 5
+"Wed, Jan 15, 2020",Denver Nuggets,L,86,100,15,29,L 6
+"Mon, Jan 20, 2020",Orlando Magic,L,83,106,15,30,L 7
+"Fri, Jan 24, 2020",Milwaukee Bucks,L,103,116,15,31,L 8
+"Tue, Jan 28, 2020",New York Knicks,W,97,92,16,31,W 1
+"Thu, Jan 30, 2020",Washington Wizards,L,107,121,16,32,L 1
+"Sat, Feb 1, 2020",San Antonio Spurs,L,90,114,16,33,L 2
+"Mon, Feb 3, 2020",Orlando Magic,L,100,112,16,34,L 3
+"Tue, Feb 4, 2020",Houston Rockets,L,110,125,16,35,L 4
+"Sat, Feb 8, 2020",Dallas Mavericks,L,100,116,16,36,L 5
+"Mon, Feb 10, 2020",Detroit Pistons,W,87,76,17,36,W 1
+"Wed, Feb 12, 2020",Minnesota Timberwolves,W,115,108,18,36,W 2
+"Thu, Feb 20, 2020",Chicago Bulls,W,103,93,19,36,W 3
+"Sat, Feb 22, 2020",Brooklyn Nets,L,86,115,19,37,L 1
+"Tue, Feb 25, 2020",Indiana Pacers,L,80,119,19,38,L 2
+"Wed, Feb 26, 2020",New York Knicks,W,107,101,20,38,W 1
+"Fri, Feb 28, 2020",Toronto Raptors,W,99,96,21,38,W 2
+"Sun, Mar 1, 2020",Milwaukee Bucks,L,85,93,21,39,L 1
+"Tue, Mar 3, 2020",San Antonio Spurs,L,103,104,21,40,L 2
+"Thu, Mar 5, 2020",Denver Nuggets,L,112,114,21,41,L 3
+"Sat, Mar 7, 2020",Houston Rockets,W,108,99,22,41,W 1
+"Mon, Mar 9, 2020",Atlanta Hawks,L,138,143,22,42,L 1
+"Wed, Mar 11, 2020",Miami Heat,W,109,98,23,42,W 1
