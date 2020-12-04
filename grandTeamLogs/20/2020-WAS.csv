@@ -1,0 +1,73 @@
+date_game,opp_name,game_result,pts,opp_pts,wins,losses,game_streak
+"Wed, Oct 23, 2019",Dallas Mavericks,L,100,108,0,1,L 1
+"Fri, Oct 25, 2019",Oklahoma City Thunder,W,97,85,1,1,W 1
+"Sat, Oct 26, 2019",San Antonio Spurs,L,122,124,1,2,L 1
+"Wed, Oct 30, 2019",Houston Rockets,L,158,159,1,3,L 2
+"Sat, Nov 2, 2019",Minnesota Timberwolves,L,109,131,1,4,L 3
+"Mon, Nov 4, 2019",Detroit Pistons,W,115,99,2,4,W 1
+"Wed, Nov 6, 2019",Indiana Pacers,L,106,121,2,5,L 1
+"Fri, Nov 8, 2019",Cleveland Cavaliers,L,100,113,2,6,L 2
+"Wed, Nov 13, 2019",Boston Celtics,L,133,140,2,7,L 3
+"Fri, Nov 15, 2019",Minnesota Timberwolves,W,137,116,3,7,W 1
+"Sun, Nov 17, 2019",Orlando Magic,L,121,125,3,8,L 1
+"Wed, Nov 20, 2019",San Antonio Spurs,W,138,132,4,8,W 1
+"Fri, Nov 22, 2019",Charlotte Hornets,W,125,118,5,8,W 2
+"Sun, Nov 24, 2019",Sacramento Kings,L,106,113,5,9,L 1
+"Tue, Nov 26, 2019",Denver Nuggets,L,104,117,5,10,L 2
+"Wed, Nov 27, 2019",Phoenix Suns,W,140,132,6,10,W 1
+"Fri, Nov 29, 2019",Los Angeles Lakers,L,103,125,6,11,L 1
+"Sun, Dec 1, 2019",Los Angeles Clippers,L,125,150,6,12,L 2
+"Tue, Dec 3, 2019",Orlando Magic,L,120,127,6,13,L 3
+"Thu, Dec 5, 2019",Philadelphia 76ers,W,119,113,7,13,W 1
+"Fri, Dec 6, 2019",Miami Heat,L,103,112,7,14,L 1
+"Sun, Dec 8, 2019",Los Angeles Clippers,L,119,135,7,15,L 2
+"Tue, Dec 10, 2019",Charlotte Hornets,L,107,114,7,16,L 3
+"Sat, Dec 14, 2019",Memphis Grizzlies,L,111,128,7,17,L 4
+"Mon, Dec 16, 2019",Detroit Pistons,W,133,119,8,17,W 1
+"Wed, Dec 18, 2019",Chicago Bulls,L,109,110,8,18,L 1
+"Fri, Dec 20, 2019",Toronto Raptors,L,118,122,8,19,L 2
+"Sat, Dec 21, 2019",Philadelphia 76ers,L,108,125,8,20,L 3
+"Mon, Dec 23, 2019",New York Knicks,W,121,115,9,20,W 1
+"Thu, Dec 26, 2019",Detroit Pistons,L,102,132,9,21,L 1
+"Sat, Dec 28, 2019",New York Knicks,L,100,107,9,22,L 2
+"Mon, Dec 30, 2019",Miami Heat,W,123,105,10,22,W 1
+"Wed, Jan 1, 2020",Orlando Magic,L,101,122,10,23,L 1
+"Fri, Jan 3, 2020",Portland Trail Blazers,L,103,122,10,24,L 2
+"Sat, Jan 4, 2020",Denver Nuggets,W,128,114,11,24,W 1
+"Mon, Jan 6, 2020",Boston Celtics,W,99,94,12,24,W 2
+"Wed, Jan 8, 2020",Orlando Magic,L,89,123,12,25,L 1
+"Fri, Jan 10, 2020",Atlanta Hawks,W,111,101,13,25,W 1
+"Sun, Jan 12, 2020",Utah Jazz,L,116,127,13,26,L 1
+"Wed, Jan 15, 2020",Chicago Bulls,L,106,115,13,27,L 2
+"Fri, Jan 17, 2020",Toronto Raptors,L,111,140,13,28,L 3
+"Mon, Jan 20, 2020",Detroit Pistons,W,106,100,14,28,W 1
+"Wed, Jan 22, 2020",Miami Heat,L,129,134,14,29,L 1
+"Thu, Jan 23, 2020",Cleveland Cavaliers,W,124,112,15,29,W 1
+"Sun, Jan 26, 2020",Atlanta Hawks,L,133,152,15,30,L 1
+"Tue, Jan 28, 2020",Milwaukee Bucks,L,131,151,15,31,L 2
+"Thu, Jan 30, 2020",Charlotte Hornets,W,121,107,16,31,W 1
+"Sat, Feb 1, 2020",Brooklyn Nets,W,113,107,17,31,W 2
+"Mon, Feb 3, 2020",Golden State Warriors,L,117,125,17,32,L 1
+"Fri, Feb 7, 2020",Dallas Mavericks,W,119,118,18,32,W 1
+"Sun, Feb 9, 2020",Memphis Grizzlies,L,99,106,18,33,L 1
+"Tue, Feb 11, 2020",Chicago Bulls,W,126,114,19,33,W 1
+"Wed, Feb 12, 2020",New York Knicks,W,114,96,20,33,W 2
+"Fri, Feb 21, 2020",Cleveland Cavaliers,L,108,113,20,34,L 1
+"Sun, Feb 23, 2020",Chicago Bulls,L,117,126,20,35,L 2
+"Mon, Feb 24, 2020",Milwaukee Bucks,L,134,137,20,36,L 3
+"Wed, Feb 26, 2020",Brooklyn Nets,W,110,106,21,36,W 1
+"Fri, Feb 28, 2020",Utah Jazz,L,119,129,21,37,L 1
+"Sun, Mar 1, 2020",Golden State Warriors,W,124,110,22,37,W 1
+"Tue, Mar 3, 2020",Sacramento Kings,L,126,133,22,38,L 1
+"Wed, Mar 4, 2020",Portland Trail Blazers,L,104,125,22,39,L 2
+"Fri, Mar 6, 2020",Atlanta Hawks,W,118,112,23,39,W 1
+"Sun, Mar 8, 2020",Miami Heat,L,89,100,23,40,L 1
+"Tue, Mar 10, 2020",New York Knicks,W,122,115,24,40,W 1
+"Fri, Jul 31, 2020",Phoenix Suns,L,112,125,24,41,L 1
+"Sun, Aug 2, 2020",Brooklyn Nets,L,110,118,24,42,L 2
+"Mon, Aug 3, 2020",Indiana Pacers,L,100,111,24,43,L 3
+"Wed, Aug 5, 2020",Philadelphia 76ers,L,98,107,24,44,L 4
+"Fri, Aug 7, 2020",New Orleans Pelicans,L,107,118,24,45,L 5
+"Sun, Aug 9, 2020",Oklahoma City Thunder,L,103,121,24,46,L 6
+"Tue, Aug 11, 2020",Milwaukee Bucks,L,113,126,24,47,L 7
+"Thu, Aug 13, 2020",Boston Celtics,W,96,90,25,47,W 1
