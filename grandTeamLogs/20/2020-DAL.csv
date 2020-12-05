@@ -1,0 +1,82 @@
+date_game,opp_name,game_result,pts,opp_pts,wins,losses,game_streak
+"Wed, Oct 23, 2019",Washington Wizards,W,108,100,1,0,W 1
+"Fri, Oct 25, 2019",New Orleans Pelicans,W,123,116,2,0,W 2
+"Sun, Oct 27, 2019",Portland Trail Blazers,L,119,121,2,1,L 1
+"Tue, Oct 29, 2019",Denver Nuggets,W,109,106,3,1,W 1
+"Fri, Nov 1, 2019",Los Angeles Lakers,L,110,119,3,2,L 1
+"Sun, Nov 3, 2019",Cleveland Cavaliers,W,131,111,4,2,W 1
+"Wed, Nov 6, 2019",Orlando Magic,W,107,106,5,2,W 2
+"Fri, Nov 8, 2019",New York Knicks,L,102,106,5,3,L 1
+"Sat, Nov 9, 2019",Memphis Grizzlies,W,138,122,6,3,W 1
+"Mon, Nov 11, 2019",Boston Celtics,L,106,116,6,4,L 1
+"Thu, Nov 14, 2019",New York Knicks,L,103,106,6,5,L 2
+"Sat, Nov 16, 2019",Toronto Raptors,W,110,102,7,5,W 1
+"Mon, Nov 18, 2019",San Antonio Spurs,W,117,110,8,5,W 2
+"Wed, Nov 20, 2019",Golden State Warriors,W,142,94,9,5,W 3
+"Fri, Nov 22, 2019",Cleveland Cavaliers,W,143,101,10,5,W 4
+"Sun, Nov 24, 2019",Houston Rockets,W,137,123,11,5,W 5
+"Tue, Nov 26, 2019",Los Angeles Clippers,L,99,114,11,6,L 1
+"Fri, Nov 29, 2019",Phoenix Suns,W,120,113,12,6,W 1
+"Sun, Dec 1, 2019",Los Angeles Lakers,W,114,100,13,6,W 2
+"Tue, Dec 3, 2019",New Orleans Pelicans,W,118,97,14,6,W 3
+"Wed, Dec 4, 2019",Minnesota Timberwolves,W,121,114,15,6,W 4
+"Sat, Dec 7, 2019",New Orleans Pelicans,W,130,84,16,6,W 5
+"Sun, Dec 8, 2019",Sacramento Kings,L,106,110,16,7,L 1
+"Thu, Dec 12, 2019",Detroit Pistons,W,122,111,17,7,W 1
+"Sat, Dec 14, 2019",Miami Heat,L,118,122,17,8,L 1
+"Mon, Dec 16, 2019",Milwaukee Bucks,W,120,116,18,8,W 1
+"Wed, Dec 18, 2019",Boston Celtics,L,103,109,18,9,L 1
+"Fri, Dec 20, 2019",Philadelphia 76ers,W,117,98,19,9,W 1
+"Sun, Dec 22, 2019",Toronto Raptors,L,107,110,19,10,L 1
+"Thu, Dec 26, 2019",San Antonio Spurs,W,102,98,20,10,W 1
+"Sat, Dec 28, 2019",Golden State Warriors,W,141,121,21,10,W 2
+"Sun, Dec 29, 2019",Los Angeles Lakers,L,95,108,21,11,L 1
+"Tue, Dec 31, 2019",Oklahoma City Thunder,L,101,106,21,12,L 2
+"Thu, Jan 2, 2020",Brooklyn Nets,W,123,111,22,12,W 1
+"Sat, Jan 4, 2020",Charlotte Hornets,L,120,123,22,13,L 1
+"Mon, Jan 6, 2020",Chicago Bulls,W,118,110,23,13,W 1
+"Wed, Jan 8, 2020",Denver Nuggets,L,106,107,23,14,L 1
+"Fri, Jan 10, 2020",Los Angeles Lakers,L,114,129,23,15,L 2
+"Sat, Jan 11, 2020",Philadelphia 76ers,W,109,91,24,15,W 1
+"Tue, Jan 14, 2020",Golden State Warriors,W,124,97,25,15,W 2
+"Wed, Jan 15, 2020",Sacramento Kings,W,127,123,26,15,W 3
+"Fri, Jan 17, 2020",Portland Trail Blazers,W,120,112,27,15,W 4
+"Tue, Jan 21, 2020",Los Angeles Clippers,L,107,110,27,16,L 1
+"Thu, Jan 23, 2020",Portland Trail Blazers,W,133,125,28,16,W 1
+"Sat, Jan 25, 2020",Utah Jazz,L,107,112,28,17,L 1
+"Mon, Jan 27, 2020",Oklahoma City Thunder,W,107,97,29,17,W 1
+"Tue, Jan 28, 2020",Phoenix Suns,L,104,133,29,18,L 1
+"Fri, Jan 31, 2020",Houston Rockets,L,121,128,29,19,L 2
+"Sat, Feb 1, 2020",Atlanta Hawks,W,123,100,30,19,W 1
+"Mon, Feb 3, 2020",Indiana Pacers,W,112,103,31,19,W 2
+"Wed, Feb 5, 2020",Memphis Grizzlies,L,107,121,31,20,L 1
+"Fri, Feb 7, 2020",Washington Wizards,L,118,119,31,21,L 2
+"Sat, Feb 8, 2020",Charlotte Hornets,W,116,100,32,21,W 1
+"Mon, Feb 10, 2020",Utah Jazz,L,119,123,32,22,L 1
+"Wed, Feb 12, 2020",Sacramento Kings,W,130,111,33,22,W 1
+"Fri, Feb 21, 2020",Orlando Magic,W,122,106,34,22,W 2
+"Sat, Feb 22, 2020",Atlanta Hawks,L,107,111,34,23,L 1
+"Mon, Feb 24, 2020",Minnesota Timberwolves,W,139,123,35,23,W 1
+"Wed, Feb 26, 2020",San Antonio Spurs,W,109,103,36,23,W 2
+"Fri, Feb 28, 2020",Miami Heat,L,118,126,36,24,L 1
+"Sun, Mar 1, 2020",Minnesota Timberwolves,W,111,91,37,24,W 1
+"Mon, Mar 2, 2020",Chicago Bulls,L,107,109,37,25,L 1
+"Wed, Mar 4, 2020",New Orleans Pelicans,W,127,123,38,25,W 1
+"Fri, Mar 6, 2020",Memphis Grizzlies,W,121,96,39,25,W 2
+"Sun, Mar 8, 2020",Indiana Pacers,L,109,112,39,26,L 1
+"Tue, Mar 10, 2020",San Antonio Spurs,L,109,119,39,27,L 2
+"Wed, Mar 11, 2020",Denver Nuggets,W,113,97,40,27,W 1
+"Fri, Jul 31, 2020",Houston Rockets,L,149,153,40,28,L 1
+"Sun, Aug 2, 2020",Phoenix Suns,L,115,117,40,29,L 2
+"Tue, Aug 4, 2020",Sacramento Kings,W,114,110,41,29,W 1
+"Thu, Aug 6, 2020",Los Angeles Clippers,L,111,126,41,30,L 1
+"Sat, Aug 8, 2020",Milwaukee Bucks,W,136,132,42,30,W 1
+"Mon, Aug 10, 2020",Utah Jazz,W,122,114,43,30,W 2
+"Tue, Aug 11, 2020",Portland Trail Blazers,L,131,134,43,31,L 1
+"Thu, Aug 13, 2020",Phoenix Suns,L,102,128,43,32,L 2
+"Mon, Aug 17, 2020",Los Angeles Clippers,L,110,118,0,1,L 1
+"Wed, Aug 19, 2020",Los Angeles Clippers,W,127,114,1,1,W 1
+"Fri, Aug 21, 2020",Los Angeles Clippers,L,122,130,1,2,L 1
+"Sun, Aug 23, 2020",Los Angeles Clippers,W,135,133,2,2,W 1
+"Tue, Aug 25, 2020",Los Angeles Clippers,L,111,154,2,3,L 1
+"Sun, Aug 30, 2020",Los Angeles Clippers,L,97,111,2,4,L 2

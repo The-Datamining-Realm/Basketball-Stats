@@ -1,0 +1,83 @@
+date_game,opp_name,game_result,pts,opp_pts,wins,losses,game_streak
+"Wed, Oct 29, 2014",Chicago Bulls,L,80,104,0,1,L 1
+"Thu, Oct 30, 2014",Cleveland Cavaliers,W,95,90,1,1,W 1
+"Sun, Nov 2, 2014",Charlotte Hornets,W,96,93,2,1,W 2
+"Tue, Nov 4, 2014",Washington Wizards,L,83,98,2,2,L 1
+"Wed, Nov 5, 2014",Detroit Pistons,L,95,98,2,3,L 2
+"Fri, Nov 7, 2014",Brooklyn Nets,L,99,110,2,4,L 3
+"Sat, Nov 8, 2014",Atlanta Hawks,L,96,103,2,5,L 4
+"Mon, Nov 10, 2014",Atlanta Hawks,L,85,91,2,6,L 5
+"Wed, Nov 12, 2014",Orlando Magic,L,95,97,2,7,L 6
+"Fri, Nov 14, 2014",Utah Jazz,L,100,102,2,8,L 7
+"Sun, Nov 16, 2014",Denver Nuggets,W,109,93,3,8,W 1
+"Tue, Nov 18, 2014",Milwaukee Bucks,L,113,117,3,9,L 1
+"Wed, Nov 19, 2014",Minnesota Timberwolves,L,99,115,3,10,L 2
+"Sat, Nov 22, 2014",Philadelphia 76ers,W,91,83,4,10,W 1
+"Mon, Nov 24, 2014",Houston Rockets,L,86,91,4,11,L 1
+"Wed, Nov 26, 2014",Dallas Mavericks,L,102,109,4,12,L 2
+"Fri, Nov 28, 2014",Oklahoma City Thunder,L,78,105,4,13,L 3
+"Sun, Nov 30, 2014",Miami Heat,L,79,86,4,14,L 4
+"Tue, Dec 2, 2014",Brooklyn Nets,L,93,98,4,15,L 5
+"Thu, Dec 4, 2014",Cleveland Cavaliers,L,87,90,4,16,L 6
+"Fri, Dec 5, 2014",Charlotte Hornets,L,102,103,4,17,L 7
+"Sun, Dec 7, 2014",Portland Trail Blazers,L,99,103,4,18,L 8
+"Tue, Dec 9, 2014",New Orleans Pelicans,L,93,104,4,19,L 9
+"Wed, Dec 10, 2014",San Antonio Spurs,L,95,109,4,20,L 10
+"Fri, Dec 12, 2014",Boston Celtics,W,101,95,5,20,W 1
+"Sun, Dec 14, 2014",Toronto Raptors,L,90,95,5,21,L 1
+"Tue, Dec 16, 2014",Dallas Mavericks,L,87,107,5,22,L 2
+"Thu, Dec 18, 2014",Chicago Bulls,L,97,103,5,23,L 3
+"Sat, Dec 20, 2014",Phoenix Suns,L,90,99,5,24,L 4
+"Sun, Dec 21, 2014",Toronto Raptors,L,108,118,5,25,L 5
+"Thu, Dec 25, 2014",Washington Wizards,L,91,102,5,26,L 6
+"Sat, Dec 27, 2014",Sacramento Kings,L,129,135,5,27,L 7
+"Sun, Dec 28, 2014",Portland Trail Blazers,L,79,101,5,28,L 8
+"Wed, Dec 31, 2014",Los Angeles Clippers,L,78,99,5,29,L 9
+"Fri, Jan 2, 2015",Detroit Pistons,L,81,97,5,30,L 10
+"Sun, Jan 4, 2015",Milwaukee Bucks,L,82,95,5,31,L 11
+"Mon, Jan 5, 2015",Memphis Grizzlies,L,83,105,5,32,L 12
+"Wed, Jan 7, 2015",Washington Wizards,L,91,101,5,33,L 13
+"Thu, Jan 8, 2015",Houston Rockets,L,96,120,5,34,L 14
+"Sat, Jan 10, 2015",Charlotte Hornets,L,82,110,5,35,L 15
+"Thu, Jan 15, 2015",Milwaukee Bucks,L,79,95,5,36,L 16
+"Mon, Jan 19, 2015",New Orleans Pelicans,W,99,92,6,36,W 1
+"Wed, Jan 21, 2015",Philadelphia 76ers,W,98,91,7,36,W 2
+"Fri, Jan 23, 2015",Orlando Magic,W,113,106,8,36,W 3
+"Sat, Jan 24, 2015",Charlotte Hornets,L,71,76,8,37,L 1
+"Wed, Jan 28, 2015",Oklahoma City Thunder,W,100,92,9,37,W 1
+"Thu, Jan 29, 2015",Indiana Pacers,L,82,103,9,38,L 1
+"Sun, Feb 1, 2015",Los Angeles Lakers,W,92,80,10,38,W 1
+"Tue, Feb 3, 2015",Boston Celtics,L,97,108,10,39,L 1
+"Fri, Feb 6, 2015",Brooklyn Nets,L,88,92,10,40,L 2
+"Sat, Feb 7, 2015",Golden State Warriors,L,92,106,10,41,L 3
+"Mon, Feb 9, 2015",Miami Heat,L,95,109,10,42,L 4
+"Wed, Feb 11, 2015",Orlando Magic,L,83,89,10,43,L 5
+"Fri, Feb 20, 2015",Miami Heat,L,87,111,10,44,L 6
+"Sun, Feb 22, 2015",Cleveland Cavaliers,L,83,101,10,45,L 7
+"Wed, Feb 25, 2015",Boston Celtics,L,94,115,10,46,L 8
+"Fri, Feb 27, 2015",Detroit Pistons,W,121,115,11,46,W 1
+"Sat, Feb 28, 2015",Toronto Raptors,W,103,98,12,46,W 2
+"Tue, Mar 3, 2015",Sacramento Kings,L,86,124,12,47,L 1
+"Wed, Mar 4, 2015",Indiana Pacers,L,82,105,12,48,L 2
+"Sat, Mar 7, 2015",Indiana Pacers,L,86,92,12,49,L 3
+"Mon, Mar 9, 2015",Denver Nuggets,L,78,106,12,50,L 4
+"Tue, Mar 10, 2015",Utah Jazz,L,82,87,12,51,L 5
+"Thu, Mar 12, 2015",Los Angeles Lakers,W,101,94,13,51,W 1
+"Sat, Mar 14, 2015",Golden State Warriors,L,94,125,13,52,L 1
+"Sun, Mar 15, 2015",Phoenix Suns,L,89,102,13,53,L 2
+"Tue, Mar 17, 2015",San Antonio Spurs,W,104,100,14,53,W 1
+"Thu, Mar 19, 2015",Minnesota Timberwolves,L,92,95,14,54,L 1
+"Fri, Mar 20, 2015",Philadelphia 76ers,L,81,97,14,55,L 2
+"Sun, Mar 22, 2015",Toronto Raptors,L,89,106,14,56,L 3
+"Mon, Mar 23, 2015",Memphis Grizzlies,L,82,103,14,57,L 4
+"Wed, Mar 25, 2015",Los Angeles Clippers,L,80,111,14,58,L 5
+"Fri, Mar 27, 2015",Boston Celtics,L,92,96,14,59,L 6
+"Sat, Mar 28, 2015",Chicago Bulls,L,80,111,14,60,L 7
+"Wed, Apr 1, 2015",Brooklyn Nets,L,98,100,14,61,L 8
+"Fri, Apr 3, 2015",Washington Wizards,L,87,101,14,62,L 9
+"Sun, Apr 5, 2015",Philadelphia 76ers,W,101,91,15,62,W 1
+"Wed, Apr 8, 2015",Indiana Pacers,L,86,102,15,63,L 1
+"Fri, Apr 10, 2015",Milwaukee Bucks,L,91,99,15,64,L 2
+"Sat, Apr 11, 2015",Orlando Magic,W,80,79,16,64,W 1
+"Mon, Apr 13, 2015",Atlanta Hawks,W,112,108,17,64,W 2
+"Wed, Apr 15, 2015",Detroit Pistons,L,90,112,17,65,L 1

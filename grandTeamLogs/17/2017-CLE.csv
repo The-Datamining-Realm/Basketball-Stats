@@ -1,0 +1,101 @@
+date_game,opp_name,game_result,pts,opp_pts,wins,losses,game_streak
+"Tue, Oct 25, 2016",New York Knicks,W,117,88,1,0,W 1
+"Fri, Oct 28, 2016",Toronto Raptors,W,94,91,2,0,W 2
+"Sat, Oct 29, 2016",Orlando Magic,W,105,99,3,0,W 3
+"Tue, Nov 1, 2016",Houston Rockets,W,128,120,4,0,W 4
+"Thu, Nov 3, 2016",Boston Celtics,W,128,122,5,0,W 5
+"Sat, Nov 5, 2016",Philadelphia 76ers,W,102,101,6,0,W 6
+"Tue, Nov 8, 2016",Atlanta Hawks,L,106,110,6,1,L 1
+"Fri, Nov 11, 2016",Washington Wizards,W,105,94,7,1,W 1
+"Sun, Nov 13, 2016",Charlotte Hornets,W,100,93,8,1,W 2
+"Tue, Nov 15, 2016",Toronto Raptors,W,121,117,9,1,W 3
+"Wed, Nov 16, 2016",Indiana Pacers,L,93,103,9,2,L 1
+"Fri, Nov 18, 2016",Detroit Pistons,W,104,81,10,2,W 1
+"Wed, Nov 23, 2016",Portland Trail Blazers,W,137,125,11,2,W 2
+"Fri, Nov 25, 2016",Dallas Mavericks,W,128,90,12,2,W 3
+"Sun, Nov 27, 2016",Philadelphia 76ers,W,112,108,13,2,W 4
+"Tue, Nov 29, 2016",Milwaukee Bucks,L,101,118,13,3,L 1
+"Thu, Dec 1, 2016",Los Angeles Clippers,L,94,113,13,4,L 2
+"Fri, Dec 2, 2016",Chicago Bulls,L,105,111,13,5,L 3
+"Mon, Dec 5, 2016",Toronto Raptors,W,116,112,14,5,W 1
+"Wed, Dec 7, 2016",New York Knicks,W,126,94,15,5,W 2
+"Fri, Dec 9, 2016",Miami Heat,W,114,84,16,5,W 3
+"Sat, Dec 10, 2016",Charlotte Hornets,W,116,105,17,5,W 4
+"Tue, Dec 13, 2016",Memphis Grizzlies,W,103,86,18,5,W 5
+"Wed, Dec 14, 2016",Memphis Grizzlies,L,85,93,18,6,L 1
+"Sat, Dec 17, 2016",Los Angeles Lakers,W,119,108,19,6,W 1
+"Tue, Dec 20, 2016",Milwaukee Bucks,W,114,108,20,6,W 2
+"Wed, Dec 21, 2016",Milwaukee Bucks,W,113,102,21,6,W 3
+"Fri, Dec 23, 2016",Brooklyn Nets,W,119,99,22,6,W 4
+"Sun, Dec 25, 2016",Golden State Warriors,W,109,108,23,6,W 5
+"Mon, Dec 26, 2016",Detroit Pistons,L,90,106,23,7,L 1
+"Thu, Dec 29, 2016",Boston Celtics,W,124,118,24,7,W 1
+"Sat, Dec 31, 2016",Charlotte Hornets,W,121,109,25,7,W 2
+"Mon, Jan 2, 2017",New Orleans Pelicans,W,90,82,26,7,W 3
+"Wed, Jan 4, 2017",Chicago Bulls,L,94,106,26,8,L 1
+"Fri, Jan 6, 2017",Brooklyn Nets,W,116,108,27,8,W 1
+"Sun, Jan 8, 2017",Phoenix Suns,W,120,116,28,8,W 2
+"Tue, Jan 10, 2017",Utah Jazz,L,92,100,28,9,L 1
+"Wed, Jan 11, 2017",Portland Trail Blazers,L,86,102,28,10,L 2
+"Fri, Jan 13, 2017",Sacramento Kings,W,120,108,29,10,W 1
+"Mon, Jan 16, 2017",Golden State Warriors,L,91,126,29,11,L 1
+"Thu, Jan 19, 2017",Phoenix Suns,W,118,103,30,11,W 1
+"Sat, Jan 21, 2017",San Antonio Spurs,L,115,118,30,12,L 1
+"Mon, Jan 23, 2017",New Orleans Pelicans,L,122,124,30,13,L 2
+"Wed, Jan 25, 2017",Sacramento Kings,L,112,116,30,14,L 3
+"Fri, Jan 27, 2017",Brooklyn Nets,W,124,116,31,14,W 1
+"Sun, Jan 29, 2017",Oklahoma City Thunder,W,107,91,32,14,W 2
+"Mon, Jan 30, 2017",Dallas Mavericks,L,97,104,32,15,L 1
+"Wed, Feb 1, 2017",Minnesota Timberwolves,W,125,97,33,15,W 1
+"Sat, Feb 4, 2017",New York Knicks,W,111,104,34,15,W 2
+"Mon, Feb 6, 2017",Washington Wizards,W,140,135,35,15,W 3
+"Wed, Feb 8, 2017",Indiana Pacers,W,132,117,36,15,W 4
+"Thu, Feb 9, 2017",Oklahoma City Thunder,L,109,118,36,16,L 1
+"Sat, Feb 11, 2017",Denver Nuggets,W,125,109,37,16,W 1
+"Tue, Feb 14, 2017",Minnesota Timberwolves,W,116,108,38,16,W 2
+"Wed, Feb 15, 2017",Indiana Pacers,W,113,104,39,16,W 3
+"Thu, Feb 23, 2017",New York Knicks,W,119,104,40,16,W 4
+"Sat, Feb 25, 2017",Chicago Bulls,L,99,117,40,17,L 1
+"Mon, Feb 27, 2017",Milwaukee Bucks,W,102,95,41,17,W 1
+"Wed, Mar 1, 2017",Boston Celtics,L,99,103,41,18,L 1
+"Fri, Mar 3, 2017",Atlanta Hawks,W,135,130,42,18,W 1
+"Sat, Mar 4, 2017",Miami Heat,L,92,120,42,19,L 1
+"Mon, Mar 6, 2017",Miami Heat,L,98,106,42,20,L 2
+"Thu, Mar 9, 2017",Detroit Pistons,L,101,106,42,21,L 3
+"Sat, Mar 11, 2017",Orlando Magic,W,116,104,43,21,W 1
+"Sun, Mar 12, 2017",Houston Rockets,L,112,117,43,22,L 1
+"Tue, Mar 14, 2017",Detroit Pistons,W,128,96,44,22,W 1
+"Thu, Mar 16, 2017",Utah Jazz,W,91,83,45,22,W 2
+"Sat, Mar 18, 2017",Los Angeles Clippers,L,78,108,45,23,L 1
+"Sun, Mar 19, 2017",Los Angeles Lakers,W,125,120,46,23,W 1
+"Wed, Mar 22, 2017",Denver Nuggets,L,113,126,46,24,L 1
+"Fri, Mar 24, 2017",Charlotte Hornets,W,112,105,47,24,W 1
+"Sat, Mar 25, 2017",Washington Wizards,L,115,127,47,25,L 1
+"Mon, Mar 27, 2017",San Antonio Spurs,L,74,103,47,26,L 2
+"Thu, Mar 30, 2017",Chicago Bulls,L,93,99,47,27,L 3
+"Fri, Mar 31, 2017",Philadelphia 76ers,W,122,105,48,27,W 1
+"Sun, Apr 2, 2017",Indiana Pacers,W,135,130,49,27,W 2
+"Tue, Apr 4, 2017",Orlando Magic,W,122,102,50,27,W 3
+"Wed, Apr 5, 2017",Boston Celtics,W,114,91,51,27,W 4
+"Fri, Apr 7, 2017",Atlanta Hawks,L,100,114,51,28,L 1
+"Sun, Apr 9, 2017",Atlanta Hawks,L,125,126,51,29,L 2
+"Mon, Apr 10, 2017",Miami Heat,L,121,124,51,30,L 3
+"Wed, Apr 12, 2017",Toronto Raptors,L,83,98,51,31,L 4
+"Sat, Apr 15, 2017",Indiana Pacers,W,109,108,1,0,W 1
+"Mon, Apr 17, 2017",Indiana Pacers,W,117,111,2,0,W 2
+"Thu, Apr 20, 2017",Indiana Pacers,W,119,114,3,0,W 3
+"Sun, Apr 23, 2017",Indiana Pacers,W,106,102,4,0,W 4
+"Mon, May 1, 2017",Toronto Raptors,W,116,105,5,0,W 5
+"Wed, May 3, 2017",Toronto Raptors,W,125,103,6,0,W 6
+"Fri, May 5, 2017",Toronto Raptors,W,115,94,7,0,W 7
+"Sun, May 7, 2017",Toronto Raptors,W,109,102,8,0,W 8
+"Wed, May 17, 2017",Boston Celtics,W,117,104,9,0,W 9
+"Fri, May 19, 2017",Boston Celtics,W,130,86,10,0,W 10
+"Sun, May 21, 2017",Boston Celtics,L,108,111,10,1,L 1
+"Tue, May 23, 2017",Boston Celtics,W,112,99,11,1,W 1
+"Thu, May 25, 2017",Boston Celtics,W,135,102,12,1,W 2
+"Thu, Jun 1, 2017",Golden State Warriors,L,91,113,12,2,L 1
+"Sun, Jun 4, 2017",Golden State Warriors,L,113,132,12,3,L 2
+"Wed, Jun 7, 2017",Golden State Warriors,L,113,118,12,4,L 3
+"Fri, Jun 9, 2017",Golden State Warriors,W,137,116,13,4,W 1
+"Mon, Jun 12, 2017",Golden State Warriors,L,120,129,13,5,L 1
