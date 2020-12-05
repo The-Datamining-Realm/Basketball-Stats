@@ -1,0 +1,88 @@
+date_game,opp_name,game_result,pts,opp_pts,wins,losses,game_streak
+"Tue, Oct 16, 2018",Golden State Warriors,L,100,108,0,1,L 1
+"Fri, Oct 19, 2018",Los Angeles Clippers,L,92,108,0,2,L 2
+"Sun, Oct 21, 2018",Sacramento Kings,L,120,131,0,3,L 3
+"Thu, Oct 25, 2018",Boston Celtics,L,95,101,0,4,L 4
+"Sun, Oct 28, 2018",Phoenix Suns,W,117,110,1,4,W 1
+"Tue, Oct 30, 2018",Los Angeles Clippers,W,128,110,2,4,W 2
+"Thu, Nov 1, 2018",Charlotte Hornets,W,111,107,3,4,W 3
+"Fri, Nov 2, 2018",Washington Wizards,W,134,111,4,4,W 4
+"Mon, Nov 5, 2018",New Orleans Pelicans,W,122,116,5,4,W 5
+"Wed, Nov 7, 2018",Cleveland Cavaliers,W,95,86,6,4,W 6
+"Thu, Nov 8, 2018",Houston Rockets,W,98,80,7,4,W 7
+"Sat, Nov 10, 2018",Dallas Mavericks,L,96,111,7,5,L 1
+"Mon, Nov 12, 2018",Phoenix Suns,W,118,101,8,5,W 1
+"Wed, Nov 14, 2018",New York Knicks,W,128,103,9,5,W 2
+"Sat, Nov 17, 2018",Phoenix Suns,W,110,100,10,5,W 3
+"Mon, Nov 19, 2018",Sacramento Kings,L,113,117,10,6,L 1
+"Wed, Nov 21, 2018",Golden State Warriors,W,123,95,11,6,W 1
+"Fri, Nov 23, 2018",Charlotte Hornets,W,109,104,12,6,W 2
+"Sat, Nov 24, 2018",Denver Nuggets,L,98,105,12,7,L 1
+"Wed, Nov 28, 2018",Cleveland Cavaliers,W,100,83,13,7,W 1
+"Fri, Nov 30, 2018",Atlanta Hawks,W,124,109,14,7,W 2
+"Mon, Dec 3, 2018",Detroit Pistons,W,110,83,15,7,W 3
+"Wed, Dec 5, 2018",Brooklyn Nets,W,114,112,16,7,W 4
+"Fri, Dec 7, 2018",Chicago Bulls,L,112,114,16,8,L 1
+"Mon, Dec 10, 2018",Utah Jazz,W,122,113,17,8,W 1
+"Wed, Dec 12, 2018",New Orleans Pelicans,L,114,118,17,9,L 1
+"Fri, Dec 14, 2018",Denver Nuggets,L,98,109,17,10,L 2
+"Sat, Dec 15, 2018",Los Angeles Clippers,W,110,104,18,10,W 1
+"Mon, Dec 17, 2018",Chicago Bulls,W,121,96,19,10,W 2
+"Wed, Dec 19, 2018",Sacramento Kings,W,132,113,20,10,W 3
+"Sat, Dec 22, 2018",Utah Jazz,W,107,106,21,10,W 4
+"Sun, Dec 23, 2018",Minnesota Timberwolves,L,112,114,21,11,L 1
+"Tue, Dec 25, 2018",Houston Rockets,L,109,113,21,12,L 2
+"Fri, Dec 28, 2018",Phoenix Suns,W,118,102,22,12,W 1
+"Sun, Dec 30, 2018",Dallas Mavericks,L,103,105,22,13,L 1
+"Mon, Dec 31, 2018",Dallas Mavericks,W,122,102,23,13,W 1
+"Wed, Jan 2, 2019",Los Angeles Lakers,W,107,100,24,13,W 2
+"Fri, Jan 4, 2019",Portland Trail Blazers,W,111,109,25,13,W 3
+"Sun, Jan 6, 2019",Washington Wizards,L,98,116,25,14,L 1
+"Tue, Jan 8, 2019",Minnesota Timberwolves,L,117,119,25,15,L 2
+"Thu, Jan 10, 2019",San Antonio Spurs,L,147,154,25,16,L 3
+"Sat, Jan 12, 2019",San Antonio Spurs,W,122,112,26,16,W 1
+"Tue, Jan 15, 2019",Atlanta Hawks,L,126,142,26,17,L 1
+"Thu, Jan 17, 2019",Los Angeles Lakers,L,128,138,26,18,L 2
+"Sat, Jan 19, 2019",Philadelphia 76ers,W,117,115,27,18,W 1
+"Mon, Jan 21, 2019",New York Knicks,W,127,109,28,18,W 2
+"Tue, Jan 22, 2019",Portland Trail Blazers,W,123,114,29,18,W 3
+"Thu, Jan 24, 2019",New Orleans Pelicans,W,122,116,30,18,W 4
+"Sun, Jan 27, 2019",Milwaukee Bucks,W,118,112,31,18,W 5
+"Tue, Jan 29, 2019",Orlando Magic,W,126,117,32,18,W 6
+"Fri, Feb 1, 2019",Miami Heat,W,118,102,33,18,W 7
+"Sun, Feb 3, 2019",Boston Celtics,L,129,134,33,19,L 1
+"Tue, Feb 5, 2019",Orlando Magic,W,132,122,34,19,W 1
+"Thu, Feb 7, 2019",Memphis Grizzlies,W,117,95,35,19,W 2
+"Sat, Feb 9, 2019",Houston Rockets,W,117,112,36,19,W 3
+"Mon, Feb 11, 2019",Portland Trail Blazers,W,120,111,37,19,W 4
+"Thu, Feb 14, 2019",New Orleans Pelicans,L,122,131,37,20,L 1
+"Fri, Feb 22, 2019",Utah Jazz,W,148,147,38,20,W 1
+"Sat, Feb 23, 2019",Sacramento Kings,L,116,119,38,21,L 1
+"Tue, Feb 26, 2019",Denver Nuggets,L,112,121,38,22,L 2
+"Thu, Feb 28, 2019",Philadelphia 76ers,L,104,108,38,23,L 3
+"Sat, Mar 2, 2019",San Antonio Spurs,L,102,116,38,24,L 4
+"Sun, Mar 3, 2019",Memphis Grizzlies,W,99,95,39,24,W 1
+"Tue, Mar 5, 2019",Minnesota Timberwolves,L,120,131,39,25,L 1
+"Thu, Mar 7, 2019",Portland Trail Blazers,W,129,121,40,25,W 1
+"Fri, Mar 8, 2019",Los Angeles Clippers,L,110,118,40,26,L 1
+"Mon, Mar 11, 2019",Utah Jazz,W,98,89,41,26,W 1
+"Wed, Mar 13, 2019",Brooklyn Nets,W,108,96,42,26,W 2
+"Thu, Mar 14, 2019",Indiana Pacers,L,106,108,42,27,L 1
+"Sat, Mar 16, 2019",Golden State Warriors,L,88,110,42,28,L 2
+"Mon, Mar 18, 2019",Miami Heat,L,107,116,42,29,L 3
+"Wed, Mar 20, 2019",Toronto Raptors,L,114,123,42,30,L 4
+"Fri, Mar 22, 2019",Toronto Raptors,W,116,109,43,30,W 1
+"Mon, Mar 25, 2019",Memphis Grizzlies,L,103,115,43,31,L 1
+"Wed, Mar 27, 2019",Indiana Pacers,W,107,99,44,31,W 1
+"Fri, Mar 29, 2019",Denver Nuggets,L,105,115,44,32,L 1
+"Sun, Mar 31, 2019",Dallas Mavericks,L,103,106,44,33,L 2
+"Tue, Apr 2, 2019",Los Angeles Lakers,W,119,103,45,33,W 1
+"Fri, Apr 5, 2019",Detroit Pistons,W,123,110,46,33,W 2
+"Sun, Apr 7, 2019",Minnesota Timberwolves,W,132,126,47,33,W 3
+"Tue, Apr 9, 2019",Houston Rockets,W,112,111,48,33,W 4
+"Wed, Apr 10, 2019",Milwaukee Bucks,W,127,116,49,33,W 5
+"Sun, Apr 14, 2019",Portland Trail Blazers,L,99,104,0,1,L 1
+"Tue, Apr 16, 2019",Portland Trail Blazers,L,94,114,0,2,L 2
+"Fri, Apr 19, 2019",Portland Trail Blazers,W,120,108,1,2,W 1
+"Sun, Apr 21, 2019",Portland Trail Blazers,L,98,111,1,3,L 1
+"Tue, Apr 23, 2019",Portland Trail Blazers,L,115,118,1,4,L 2

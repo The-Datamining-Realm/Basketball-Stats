@@ -1,0 +1,93 @@
+date_game,opp_name,game_result,pts,opp_pts,wins,losses,game_streak
+"Tue, Oct 27, 2015",Detroit Pistons,L,94,106,0,1,L 1
+"Thu, Oct 29, 2015",New York Knicks,W,112,101,1,1,W 1
+"Fri, Oct 30, 2015",Charlotte Hornets,W,97,94,2,1,W 2
+"Sun, Nov 1, 2015",Charlotte Hornets,W,94,92,3,1,W 3
+"Tue, Nov 3, 2015",Miami Heat,W,98,92,4,1,W 4
+"Wed, Nov 4, 2015",Brooklyn Nets,W,101,87,5,1,W 5
+"Fri, Nov 6, 2015",New Orleans Pelicans,W,121,115,6,1,W 6
+"Sat, Nov 7, 2015",Washington Wizards,W,114,99,7,1,W 7
+"Mon, Nov 9, 2015",Minnesota Timberwolves,L,107,117,7,2,L 1
+"Wed, Nov 11, 2015",New Orleans Pelicans,W,106,98,8,2,W 1
+"Fri, Nov 13, 2015",Boston Celtics,L,93,106,8,3,L 1
+"Sun, Nov 15, 2015",Utah Jazz,L,96,97,8,4,L 2
+"Tue, Nov 17, 2015",Brooklyn Nets,L,88,90,8,5,L 3
+"Wed, Nov 18, 2015",Sacramento Kings,W,103,97,9,5,W 1
+"Sat, Nov 21, 2015",Cleveland Cavaliers,L,97,109,9,6,L 1
+"Tue, Nov 24, 2015",Boston Celtics,W,121,97,10,6,W 1
+"Wed, Nov 25, 2015",Minnesota Timberwolves,L,95,99,10,7,L 1
+"Fri, Nov 27, 2015",Memphis Grizzlies,W,116,101,11,7,W 1
+"Sat, Nov 28, 2015",San Antonio Spurs,L,88,108,11,8,L 1
+"Mon, Nov 30, 2015",Oklahoma City Thunder,W,106,100,12,8,W 1
+"Wed, Dec 2, 2015",Toronto Raptors,L,86,96,12,9,L 1
+"Fri, Dec 4, 2015",Los Angeles Lakers,W,100,87,13,9,W 1
+"Wed, Dec 9, 2015",Dallas Mavericks,W,98,95,14,9,W 2
+"Thu, Dec 10, 2015",Oklahoma City Thunder,L,94,107,14,10,L 1
+"Sat, Dec 12, 2015",San Antonio Spurs,L,78,103,14,11,L 2
+"Mon, Dec 14, 2015",Miami Heat,L,88,100,14,12,L 3
+"Wed, Dec 16, 2015",Philadelphia 76ers,W,127,106,15,12,W 1
+"Fri, Dec 18, 2015",Boston Celtics,W,109,101,16,12,W 2
+"Sun, Dec 20, 2015",Orlando Magic,W,103,100,17,12,W 3
+"Mon, Dec 21, 2015",Portland Trail Blazers,W,106,97,18,12,W 4
+"Wed, Dec 23, 2015",Detroit Pistons,W,107,100,19,12,W 5
+"Sat, Dec 26, 2015",New York Knicks,W,117,98,20,12,W 6
+"Mon, Dec 28, 2015",Indiana Pacers,L,87,93,20,13,L 1
+"Tue, Dec 29, 2015",Houston Rockets,W,121,115,21,13,W 1
+"Sun, Jan 3, 2016",New York Knicks,L,97,111,21,14,L 1
+"Tue, Jan 5, 2016",New York Knicks,L,101,107,21,15,L 2
+"Thu, Jan 7, 2016",Philadelphia 76ers,W,126,98,22,15,W 1
+"Sat, Jan 9, 2016",Chicago Bulls,W,120,105,23,15,W 2
+"Wed, Jan 13, 2016",Charlotte Hornets,L,84,107,23,16,L 1
+"Fri, Jan 15, 2016",Milwaukee Bucks,L,101,108,23,17,L 2
+"Sat, Jan 16, 2016",Brooklyn Nets,W,114,86,24,17,W 1
+"Mon, Jan 18, 2016",Orlando Magic,W,98,81,25,17,W 2
+"Wed, Jan 20, 2016",Portland Trail Blazers,W,104,98,26,17,W 3
+"Thu, Jan 21, 2016",Sacramento Kings,L,88,91,26,18,L 1
+"Sat, Jan 23, 2016",Phoenix Suns,L,95,98,26,19,L 2
+"Mon, Jan 25, 2016",Denver Nuggets,W,119,105,27,19,W 1
+"Wed, Jan 27, 2016",Los Angeles Clippers,L,83,85,27,20,L 1
+"Thu, Jan 28, 2016",Indiana Pacers,L,92,111,27,21,L 2
+"Sun, Jan 31, 2016",Miami Heat,L,87,105,27,22,L 3
+"Mon, Feb 1, 2016",Dallas Mavericks,W,112,97,28,22,W 1
+"Wed, Feb 3, 2016",Philadelphia 76ers,W,124,86,29,22,W 2
+"Fri, Feb 5, 2016",Indiana Pacers,W,102,96,30,22,W 3
+"Sun, Feb 7, 2016",Orlando Magic,L,94,96,30,23,L 1
+"Mon, Feb 8, 2016",Orlando Magic,L,110,117,30,24,L 2
+"Wed, Feb 10, 2016",Chicago Bulls,W,113,90,31,24,W 1
+"Fri, Feb 19, 2016",Miami Heat,L,111,115,31,25,L 1
+"Sat, Feb 20, 2016",Milwaukee Bucks,L,109,117,31,26,L 2
+"Mon, Feb 22, 2016",Golden State Warriors,L,92,102,31,27,L 3
+"Fri, Feb 26, 2016",Chicago Bulls,W,103,88,32,27,W 1
+"Sun, Feb 28, 2016",Charlotte Hornets,W,87,76,33,27,W 2
+"Tue, Mar 1, 2016",Golden State Warriors,L,105,109,33,28,L 1
+"Fri, Mar 4, 2016",Los Angeles Lakers,W,106,77,34,28,W 1
+"Sat, Mar 5, 2016",Los Angeles Clippers,W,107,97,35,28,W 2
+"Tue, Mar 8, 2016",Utah Jazz,W,91,84,36,28,W 3
+"Thu, Mar 10, 2016",Toronto Raptors,L,96,104,36,29,L 1
+"Sat, Mar 12, 2016",Memphis Grizzlies,W,95,83,37,29,W 1
+"Sun, Mar 13, 2016",Indiana Pacers,W,104,75,38,29,W 2
+"Wed, Mar 16, 2016",Detroit Pistons,W,118,114,39,29,W 3
+"Thu, Mar 17, 2016",Denver Nuggets,W,116,98,40,29,W 4
+"Sat, Mar 19, 2016",Houston Rockets,W,109,97,41,29,W 5
+"Mon, Mar 21, 2016",Washington Wizards,L,102,117,41,30,L 1
+"Wed, Mar 23, 2016",Washington Wizards,W,122,101,42,30,W 1
+"Fri, Mar 25, 2016",Milwaukee Bucks,W,101,90,43,30,W 2
+"Sat, Mar 26, 2016",Detroit Pistons,W,112,95,44,30,W 3
+"Mon, Mar 28, 2016",Chicago Bulls,W,102,100,45,30,W 4
+"Wed, Mar 30, 2016",Toronto Raptors,L,97,105,45,31,L 1
+"Fri, Apr 1, 2016",Cleveland Cavaliers,L,108,110,45,32,L 2
+"Tue, Apr 5, 2016",Phoenix Suns,W,103,90,46,32,W 1
+"Thu, Apr 7, 2016",Toronto Raptors,W,95,87,47,32,W 2
+"Sat, Apr 9, 2016",Boston Celtics,W,118,107,48,32,W 3
+"Mon, Apr 11, 2016",Cleveland Cavaliers,L,94,109,48,33,L 1
+"Wed, Apr 13, 2016",Washington Wizards,L,98,109,48,34,L 2
+"Sat, Apr 16, 2016",Boston Celtics,W,102,101,1,0,W 1
+"Tue, Apr 19, 2016",Boston Celtics,W,89,72,2,0,W 2
+"Fri, Apr 22, 2016",Boston Celtics,L,103,111,2,1,L 1
+"Sun, Apr 24, 2016",Boston Celtics,L,95,104,2,2,L 2
+"Tue, Apr 26, 2016",Boston Celtics,W,110,83,3,2,W 1
+"Thu, Apr 28, 2016",Boston Celtics,W,104,92,4,2,W 2
+"Mon, May 2, 2016",Cleveland Cavaliers,L,93,104,4,3,L 1
+"Wed, May 4, 2016",Cleveland Cavaliers,L,98,123,4,4,L 2
+"Fri, May 6, 2016",Cleveland Cavaliers,L,108,121,4,5,L 3
+"Sun, May 8, 2016",Cleveland Cavaliers,L,99,100,4,6,L 4
