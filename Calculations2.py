@@ -16,7 +16,6 @@ with open("CalculationResults/bell_results.csv", 'w', newline='') as outfile:
 
         filepath = 'grandTeamLogs/'+ str(15+i) +'/ALL-TEAMS.csv'
         dataframe = pandas.read_csv(filepath)
-        
         for k in range(len(TEAM_ABBR)):
             games = dataframe[dataframe['abbr'].str.contains(TEAM_ABBR[k])]
             games = games[:82]#only use the first 82 games of each teams season
@@ -24,10 +23,11 @@ with open("CalculationResults/bell_results.csv", 'w', newline='') as outfile:
 
             diff = (games['pts'] - games['opp_pts']).values.tolist()# Makes a list of (pts for - pts allowed) for each game
 
-            avg_pts = games.sum(axis=0)['pts']# sum of all points scored in a season
-            avg_allowed = games.sum(axis=0)['opp_pts']# sum of all points allowed in a season
+            total_pts = games.sum(axis=0)['pts']# sum of all points scored in a season
+            total_allowed = games.sum(axis=0)['opp_pts']# sum of all points allowed in a season
+            avg_pts = int(games.mean(axis=0)['pts'])# sum of all points allowed in a season
 
-            res = "{:.3f}".format(norm(scale=abs(avg_pts - avg_allowed)).cdf((avg_pts - avg_allowed) / (statistics.stdev(diff)))) #I improvised the scale number
+            res = "{:.3f}".format(norm(scale=(avg_pts)).cdf((total_pts - total_allowed) / (statistics.stdev(diff)))) #I improvised the scale number
 
             results.append([TEAM_ABBR[k], str(res), str(win_percent)])# build rows to put into outfile
             error+= abs(float(res)-float(win_percent))#first step in error calculation
