@@ -11,7 +11,7 @@ with open("CalculationResults/bell_results.csv", 'w', newline='') as outfile:
     csvwriter = csv.writer(outfile)
     csvwriter.writerow(['Team','Bell','Actual'])
     results=[]
-    error = 0;
+    error = 0
     for i in range(4):
 
         filepath = 'grandTeamLogs/'+ str(15+i) +'/ALL-TEAMS.csv'
