@@ -11,6 +11,7 @@ with open("CalculationResults/bell_results.csv", 'w', newline='') as outfile:
     csvwriter = csv.writer(outfile)
     csvwriter.writerow(['Team','Bell','Actual'])
     results=[]
+    error = 0;
     for i in range(4):
 
         filepath = 'grandTeamLogs/'+ str(15+i) +'/ALL-TEAMS.csv'
@@ -26,6 +27,8 @@ with open("CalculationResults/bell_results.csv", 'w', newline='') as outfile:
 
             res = "{:.3f}".format(norm(scale=abs(avg_pts - avg_allowed)).cdf((avg_pts - avg_allowed) / (statistics.stdev(diff)))) #I improvised the scale number
             results.append([TEAM_ABBR[k], str(res), str(win_percent)])
+            error+= abs(float(res)-float(win_percent))
 
+    print( "average error: "+ str("{:.3f}".format(error/len(results))))
     csvwriter.writerows(results)
 
