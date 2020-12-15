@@ -12,8 +12,8 @@ with open("CalculationResults/bell_results.csv", 'w', newline='') as outfile:
     csvwriter.writerow(['Team','Bell','Actual'])
     results=[]
     error = 0
-    for i in range(4):
-
+    for i in range(5):
+        errorseason=0;
         filepath = 'grandTeamLogs/'+ str(15+i) +'/ALL-TEAMS.csv'
         dataframe = pandas.read_csv(filepath)
         for k in range(len(TEAM_ABBR)):
@@ -21,17 +21,17 @@ with open("CalculationResults/bell_results.csv", 'w', newline='') as outfile:
             games = games[:82]#only use the first 82 games of each teams season
             win_percent = "{:.3f}".format(int(games.iloc[len(games.index)-1]["wins"]) /(int(games.iloc[len(games.index)-1]["wins"]) + int(games.iloc[len(games.index)-1]["losses"])))#calculates true win %
 
-            diff = (games['pts'] - games['opp_pts']).values.tolist()# Makes a list of (pts for - pts allowed) for each game
+            point_diff_per_game = (games['pts'] - games['opp_pts']).values.tolist()# Makes a list of (pts for - pts allowed) for each game
+            total_pts = games.sum(axis=0)['pts']# sum of all points scored by said team in this season
+            total_allowed = games.sum(axis=0)['opp_pts']# sum of all points allowed by said team in this season
+            avg_pts = int(games.mean(axis=0)['pts'])# average points per game for said team in this season
 
-            total_pts = games.sum(axis=0)['pts']# sum of all points scored in a season
-            total_allowed = games.sum(axis=0)['opp_pts']# sum of all points allowed in a season
-            avg_pts = int(games.mean(axis=0)['pts'])# sum of all points allowed in a season
-
-            res = "{:.3f}".format(norm(scale=(avg_pts)).cdf((total_pts - total_allowed) / (statistics.stdev(diff)))) #I improvised the scale number
+            res = "{:.3f}".format(norm(loc= 0, scale=(avg_pts)).cdf((total_pts - total_allowed) / (statistics.stdev(point_diff_per_game)))) #Using the variables above, calcuate expected win rate
 
             results.append([TEAM_ABBR[k], str(res), str(win_percent)])# build rows to put into outfile
             error+= abs(float(res)-float(win_percent))#first step in error calculation
-
+            errorseason += abs(float(res)-float(win_percent))
+        print("average error in 20"+str(15+i)+":  error: "+ str("{:.3f}".format(errorseason/len(TEAM_ABBR))))
     print( "average error: "+ str("{:.3f}".format(error/len(results))))# second step in error calculation and print said error calc
 
     csvwriter.writerows(results)# write to csv file

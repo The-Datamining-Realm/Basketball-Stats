@@ -72,6 +72,7 @@ results = list()
 teamData = formatData('grandTeamLogs/19/ALL-TEAMS.csv')
 teamCount = 0
 
+
 for row in teamData:
     print()
     py_expectation1 = pythagorean_expectation1(
