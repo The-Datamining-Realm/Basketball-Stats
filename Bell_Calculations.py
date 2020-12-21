@@ -13,7 +13,7 @@ with open("CalculationResults/bell_results.csv", 'w', newline='') as outfile:
     results=[]
     error = 0
     for i in range(5):
-        errorseason=0;
+        errorseason=0
         filepath = 'grandTeamLogs/'+ str(15+i) +'/ALL-TEAMS.csv'
         dataframe = pandas.read_csv(filepath)
         for k in range(len(TEAM_ABBR)):
