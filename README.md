@@ -6,11 +6,7 @@ This project aims to harvest basketball data from reputable sites, namely [Baske
 ## Installation
 Install [Python 3.8 with pip](https://docs.microsoft.com/en-us/windows/python/beginners)
 
-NBA_api_test requires `pip install nba_api`
-
-standard_api_test requires `pip install request`
-`To be implemented`
-
+Run Calculations.py to generate data that goes into CalculationResults
 ## Usage
 
 `To be implemented`
