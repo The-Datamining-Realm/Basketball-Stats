@@ -12,13 +12,13 @@ EXPONENTS2 = 16.50
 TEAM_ABBR = ['ATL', 'BOS', 'BRK', 'CHI', 'CHO', 'CLE', 'DAL', 'DEN', 'DET', 'GSW', 'HOU', 'IND', 'LAC', 'LAL',
              'MEM', 'MIA', 'MIL', 'MIN', 'NOP', 'NYK', 'OKC', 'ORL', 'PHI', 'PHO', 'POR', 'SAC', 'SAS', 'TOR', 'UTA', 'WAS']
 
-
-def pythagorean_expectation1(points_for, points_against):
-    return points_for**EXPONENTS1 / (points_for**EXPONENTS1 + points_against**EXPONENTS1)
+# calculate the pythagorean expectation with the given exponent
 
 
-def pythagorean_expectation2(points_for, points_against):
-    return points_for**EXPONENTS2 / (points_for**EXPONENTS2 + points_against**EXPONENTS2)
+def pythagorean_expectation(points_for, points_against, exp):
+    return points_for**exp / (points_for**exp + points_against**exp)
+
+# calculate the average error of the predicted value vs the actual value
 
 
 def averageError(actual, predicted):
@@ -26,6 +26,8 @@ def averageError(actual, predicted):
     for i in range(len(actual)):
         totalError += abs(actual[i] - predicted[i])
     return totalError / float(len(actual))
+
+# format the raw data to precessed data
 
 
 def formatData(filename):
@@ -64,6 +66,8 @@ def formatData(filename):
     count = 0
     return teamList
 
+# plot the linear regression 3D plot
+
 
 def plot_linear_regression(X_train, y_train):
     fig = plt.figure()
@@ -80,7 +84,8 @@ def plot_linear_regression(X_train, y_train):
     ys = np.tile(np.arange(7500, 9500), (2000, 1)).T
     zs = xs*coefs[0]+ys*coefs[1]+intercept
     print(
-        "\nEquation: y = {:.2f} + ({:.12f})x1 + ({:.12f})x2".format(intercept, coefs[0], coefs[1]))
+        "\nLinear Regression Equation: y = {:.2f} + ({:.12f})x1 + ({:.12f})x2".format(intercept, coefs[0], coefs[1]))
+    print("with x1 is the points for and x2 is the points against of each team, y is the predicted win rate.")
     print("\nThe coefficent of the equation:")
     print(predictor.coef_)
 
@@ -117,10 +122,11 @@ for row in teamData:
     x = [[int(row[1]), int(row[2])]]
     outcome = predictor.predict(X=x)
 
-    py_expectation1 = pythagorean_expectation1(
-        int(row[1]), int(row[2]))
-    py_expectation2 = pythagorean_expectation2(
-        int(row[1]), int(row[2]))
+    py_expectation1 = pythagorean_expectation(
+        int(row[1]), int(row[2]), EXPONENTS1)
+    py_expectation2 = pythagorean_expectation(
+        int(row[1]), int(row[2]), EXPONENTS2)
+
     print()
     print('The winning percentage of {} is: {}'.format(
         row[0], str(row[5])))
@@ -170,24 +176,6 @@ for row in teamData:
 
 pythagorean_error = list()
 linear_regression_error = list()
-
-# for i in range(len(actual_results)):
-#     pythagorean_error.append(abs(actual_results[i] - pythagorean_results[i]))
-#     linear_regression_error.append(
-#         abs(actual_results[i] - linear_regression_results[i]))
-
-# pythagorean_average_error = sum(pythagorean_error) / len(pythagorean_error)
-# linear_regression_average_error = sum(
-#     linear_regression_error) / len(linear_regression_error)
-
-# print()
-# print('The average error in the pythagorean expectation is ' +
-#       str(pythagorean_average_error*100) + ' percent')
-# print('The average error in the linear regression prediction is ' + str(linear_regression_average_error*100)
-#       + ' percent')
-
-# print('The linear regression prediction is ' + str(100 - (linear_regression_average_error/pythagorean_average_error*100))
-#       + ' percent more accurate')
 
 with open('CalculationResults/result18-19.csv', 'w', newline='') as newCsvFile:
     csvwriter = csv.writer(newCsvFile, delimiter=',')
