@@ -8,6 +8,7 @@ This project aims to harvest basketball data from reputable sites, namely [Baske
 
 Install [Python 3.8 with pip](https://docs.microsoft.com/en-us/windows/python/beginners)
 
+
 NBA_api_test requires `pip install nba_api`
 
 standard_api_test requires `pip install request`
@@ -18,6 +19,8 @@ libraries/packages required to run the calculations:
 `pip install mpl_toolkits`
 `pip install numpy`
 `pip install csv`
+
+Run Calculations.py to generate data that goes into CalculationResults
 
 ## Usage
 
